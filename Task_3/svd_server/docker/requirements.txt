@@ -1,0 +1,5 @@
+numpy==1.20.3
+pandas==1.2.4
+scipy==1.6.3
+sparsesvd==0.2.2
+flask==2.0.1

@@ -1,5 +1,5 @@
-# RecSys course (EPAM Advanced DS course)
-This repository contains the code for solving problems from the [RecSys course v.2](https://kb.epam.com/display/EPMCBDCCDS/RecSys+course).
+# RecSys course
+This repository contains the code for solving problems from the RecSys course v.2.
 
 ### Task 0 (Metrics)
 Using materials from the topic, implement the following metrics yourself:
