@@ -1,2 +1,0 @@
-docker build -t svd-docker .
-docker run -dp 5000:5000 svd-docker
